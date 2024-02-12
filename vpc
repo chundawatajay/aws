@@ -1,0 +1,6 @@
+cidr
+
+create vpc
+create subnet private and public and then assign ip address using cidr (cidr.xyz)
+  then establish internet gateway
+  then establish routes
