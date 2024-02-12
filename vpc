@@ -3,4 +3,5 @@ cidr
 create vpc
 create subnet private and public and then assign ip address using cidr (cidr.xyz)
   then establish internet gateway
-  then establish routes
+  then establish routestables
+then set subnet association rules to know where to route the trafic to public subnet or private
