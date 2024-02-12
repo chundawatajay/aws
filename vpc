@@ -5,3 +5,7 @@ create subnet private and public and then assign ip address using cidr (cidr.xyz
   then establish internet gateway
   then establish routestables
 then set subnet association rules to know where to route the trafic to public subnet or private
+assign ip address to subnet usung actions tab
+then attach internetgateway to the vpc using actions tab
+then attach internetgateway to routes 
+goto internetgateway => goto routes=> set ip tp 0.0.0.0/0  then select internetgateway attach ten select which gateway test or other as you named  then save
